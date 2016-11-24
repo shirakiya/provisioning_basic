@@ -1,0 +1,9 @@
+:role: vagrant
+:user:
+  :username: vagrant
+  :groupname: vagrant
+:zsh: true
+:python:
+  :version: 3.5.2
+:nodejs:
+  :version: v6.9.1

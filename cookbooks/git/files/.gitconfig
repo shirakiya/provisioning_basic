@@ -1,0 +1,19 @@
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+[alias]
+    co = checkout
+    st = status
+    ci = commit -a
+    di = diff
+    dic = diff --cached
+    br = branch
+    addp = add -p
+    logs = log --graph --color --decorate --stat
+    logshort = log --graph --color --pretty=short
+[color]
+    ui = auto
+    status = auto
+    diff = auto
+    branch = auto
+    interactive = auto
+    grep = auto

@@ -1,0 +1,6 @@
+:role: aws_ec2
+:user:
+  :username: ubuntu
+  :groupname: ubuntu
+:python:
+  :version: 3.5.2
